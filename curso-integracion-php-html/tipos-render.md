@@ -9,5 +9,5 @@
 
 
 **Server Side Rendering (SSR) Renderización del lado del servidor**
->Es el tipo de renderizado más común en la web. Este renderizado se basa en que nuestro servidor quien procesa todo el código ya procesado a nuestro navegador. 
+>Es el tipo de renderizado más común en la web. Este renderizado se basa en que nuestro servidor quien procesa todo el código ya procesado a nuestro navegador.(el servidor procesa el codigo y nos da una plantilla ya procesada)
 >Es el más común en lenguajes backend.
